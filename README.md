@@ -1,6 +1,6 @@
 # CustomerSegmentation
 
-Welcome to my **CustomerSegmentation** project repository. This repository contains all the work I have completed during my self-paced internship at **Quantium** through **Forge**.
+This repository contains all the work I have completed during my self-paced internship at **Quantium** through **Forge**.
 
 ---
 
